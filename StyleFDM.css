@@ -22,7 +22,7 @@ body {
 .marquee {
   padding: 0% 0% 50px;
   color: #d1c2c2;
-  font: normal 16px 'Great Vibes', cursive;
+  font: normal 25px 'Great Vibes', cursive;
   text-shadow: 1px 1px 5px #000000;
 }
 
@@ -49,7 +49,7 @@ body {
   animation: corazon 1.5s ease-in-out infinite;
   color: #c7c7c7;
   content: 'Feliz Dia Madre Carmen Maritza!!';
-  font: normal 0.2em 'Great Vibes', cursive;
+  font: normal 0.25em 'Great Vibes', cursive;
   left: calc(15px - 0.3em);
   line-height: 225px;
   position: absolute;
